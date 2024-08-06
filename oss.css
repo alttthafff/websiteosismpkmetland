@@ -78,6 +78,7 @@ button:focus-visible {
 }
 
 /*Navbar*/
+
 nav {
   background-color: white;
   outline: 2px solid var(--purple);
@@ -924,6 +925,27 @@ footer a {
     flex-direction: column;
   }
 
+  /***********BIG MODIFITE *****************/
+  #home .lead {
+    padding-top: 20px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-block: 0;
+    font-family: "Raleway", sans-serif;
+  }
+
+  #home .lead1 {
+    font-size: 10px;
+    letter-spacing: 2px;
+    padding-bottom: 20px;
+    margin-block: 0;
+    font-family: "Raleway", sans-serif;
+  }
+
+  .head-navbar {
+    height: 70px;
+  }
+
   /* logo osis&mpk */
   .logo-osis {
     width: 70px;
@@ -964,6 +986,8 @@ footer a {
   .typed-text {
     font-size: 50px;
   }
+
+  /*********** DONE BIG MODIFITE *****************/
 
   .main-section,
   #home {
