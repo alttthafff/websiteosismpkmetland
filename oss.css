@@ -925,12 +925,34 @@ footer a {
 
   /* logo osis&mpk */
   .logo-osis {
-    width: 40;
-    height: 50;
+    width: 40px;
+    height: 50px;
   }
   .logo-mpk {
-    width: 60;
-    height: 50;
+    width: 60px;
+    height: 50px;
+  }
+
+  /* text osis dan mpk */
+  .spantext {
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+    line-height: 100px;
+  }
+
+  .spantext span {
+    font-family: var(--poppins);
+    color: #7099c2;
+  }
+
+  /* button nav */
+  .button {
+    padding-right: 5px;
+  }
+
+  #navbar-open {
+    margin-right: 30px;
   }
 
   .main-section,
