@@ -354,7 +354,7 @@ h2.satriadesk2 {
   border-top-left-radius: 15%;
   border-top-right-radius: 15%;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(40ch, 100%), 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(min(60ch, 100%), 1fr));
   gap: 100px;
   background-color: transparent;
   background-image: radial-gradient(#000000 1px, #e5e5f7 1px);
